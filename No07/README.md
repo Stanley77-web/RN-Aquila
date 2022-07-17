@@ -25,11 +25,11 @@ Setup ini hanya bisa dijalankan di sistem operasi linux karena ada beberapa libr
 
 - Run <br>
 Setelah program berhasil dicompile, <br>
-    - Untuk Bermain di sisi Server dapat memasukkan commanr
+    - Untuk Bermain di sisi Server dapat memasukkan command
         ```
         ./server
         ```  
-    - Untuk Bermain di sisi Client dapat memasukkan commanr
+    - Untuk Bermain di sisi Client dapat memasukkan command
         ```
         ./client
         ``` 
