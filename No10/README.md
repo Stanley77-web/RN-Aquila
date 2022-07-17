@@ -15,7 +15,7 @@ Program sederhana untuk melakukan pencarian string _pattern_ secara paralel
 <br>
 
 ## Setup
-Setup ini hanya bisa dijalankan di sistem operasi linux karena ada beberapa library yang hanya disediakan dilinux
+Setup ini hanya bisa dijalankan di sistem operasi linux karena ada beberapa library yang hanya disediakan di sistem operasi linux
 - Compile <br>
     Pertama-pertama program harus dicompile terlebih dahulu dengan memasukan command seperti dibawah ini ke dalam terminal 
     
