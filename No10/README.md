@@ -24,7 +24,7 @@ Setup ini hanya bisa dijalankan di sistem operasi linux karena ada beberapa libr
     ```
 
 - Run <br>
-Setelah program berhasil dibuild untuk menjalankan cukup memasukkan command seperti dibawah ini ke dalam terminal
+Setelah program berhasil dicompile untuk menjalankan cukup memasukkan command seperti dibawah ini ke dalam terminal
     ```
     ./paringder <jumlah proses> <jumlah thread> <pattern string>
     ```  
