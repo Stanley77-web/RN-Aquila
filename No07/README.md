@@ -24,7 +24,7 @@ Setup ini hanya bisa dijalankan di sistem operasi linux karena ada beberapa libr
     ```
 
 - Run <br>
-Setelah program berhasil dibuild, <br>
+Setelah program berhasil dicompile, <br>
     - Untuk Bermain di sisi Server dapat memasukkan commanr
         ```
         ./server
